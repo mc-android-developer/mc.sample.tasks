@@ -5,7 +5,10 @@ import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
+<<<<<<< HEAD
 
+=======
+>>>>>>> prepare
 import mc.sample.tasks.treto.adapter.PictureAdapter;
 
 public class SwipeControlViewPager extends ViewPager {
