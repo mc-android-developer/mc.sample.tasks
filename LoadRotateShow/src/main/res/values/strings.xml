@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoadRotateShow</string>
+    <string name="load_image">Load image</string>
+    <string name="rotate_image">Rotate image</string>
+    <string name="angle_to_rotate">Angle to rotate</string>
+    <string name="image_url">Image url</string>
+
+    <!-- Error toasts -->
+    <string name="invalid_url">Invalid URL entered.</string>
+    <string name="no_network_error">No internet connection.</string>
+    <string name="rotate_error">Unable to rotate image.</string>
+    <string name="unable_download_image">Unable to download image.</string>
+
+</resources>

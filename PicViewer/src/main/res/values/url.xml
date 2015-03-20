@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>http://treto.ru/img_lb/pamesa/agatha/per_sito/ambienti/z_Agatha-Pamesa-1.jpg</item>
+        <item>http://treto.ru/img_lb/dts/frame/per_sito/ambienti/z_Frame-DTS-11.jpg</item>
+        <item>http://treto.ru/img_lb/pamesa/agatha/per_sito/ambienti/z_Agatha-Pamesa-2.jpg</item>
+        <item>http://treto.ru/img_lb/bisazza/hayon/per_sito/ambienti/z_Hayon-Bisazza-26.jpg</item>
+        <item>http://treto.ru/img_lb/pamesa/agatha/per_sito/ambienti/z_Agatha-Pamesa-6.jpg</item>
+        <item>http://treto.ru/img_lb/pamesa/agatha/per_sito/ambienti/z_Agatha-Pamesa-8.jpg</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="NumbersGeneratorTheme" parent="Theme.AppCompat.Light">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="android:actionBarStyle" tools:ignore="NewApi">@style/ActionBar</item>
+    </style>
+
+    <style name="ActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="displayOptions">showCustom</item>
+        <item name="android:displayOptions" tools:ignore="NewApi">showCustom</item>
+
+        <item name="customNavigationLayout">@layout/action_bar</item>
+        <item name="android:customNavigationLayout" tools:ignore="NewApi">@layout/action_bar</item>
+
+        <item name="background">@color/android:white</item>
+        <item name="android:background">@color/android:white</item>
+    </style>
+</resources>

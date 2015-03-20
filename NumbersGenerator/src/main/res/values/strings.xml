@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numbers generator</string>
+    <string name="title_history">History</string>
+
+    <string name="btn_next">Next</string>
+    <string name="btn_history">History</string>
+    <string name="button_clear_history">Clear history</string>
+</resources>

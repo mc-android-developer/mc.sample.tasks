@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">AutoCompleteCity</string>
+    
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="searchNotImplemented">Search is not yet implemented</string>
+    <string name="title">Sample task</string>
+
+</resources>

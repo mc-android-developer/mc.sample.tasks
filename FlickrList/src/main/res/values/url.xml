@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_url">http://www.flickr.com/services/feeds/photos_public.gne?format=json</string>
+</resources>

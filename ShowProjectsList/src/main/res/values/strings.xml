@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Show Projects List</string>
+    <string name="project_details">Project details</string>
+    <string name="go_to_repo">Go to repository?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="id">ID:</string>
+    <string name="project_name">Project name:</string>
+    <string name="project_owner">Project owner:</string>
+    <string name="url">Url:</string>
+    <string name="fork">Fork:</string>
+    <string name="description">Description:</string>
+</resources>

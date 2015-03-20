@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExpandableTicketList</string>
+
+    <string name="title">Рубрики</string>
+    <string name="subtitle">Список всех рубрик и категорий</string>
+    <string name="subcategories_num">Вложенных категорий:</string>
+    <string name="pick_category">Выбрана категория. Id:</string>
+
+    <string name="errmsg_get_data">Не удается получить данные от сервера</string>
+    <string name="errmsg_parse_data">Ошибка формата полученных данных</string>
+    <string name="errmsg_no_connection">Отсутствует Интернет соединение</string>
+</resources>
+

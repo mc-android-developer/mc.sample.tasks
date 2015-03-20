@@ -1,0 +1,7 @@
+Design an Android application displaying a list of suggestions from public Flickr API
+http://www.flickr.com/services/feeds/photos_public.gne?format=json
+
+- List item contains image, date and description
+- Click on item opens it in Android browser
+- Only Android support library is allowed
+- Support Android API 10 or higher

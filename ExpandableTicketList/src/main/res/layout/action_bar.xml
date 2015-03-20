@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/actionBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:contentInsetEnd="0dp"
+        app:contentInsetStart="0dp">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white">
+
+        <ImageView
+                android:id="@+id/back_button"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/navigation_previous_item"/>
+
+        <ImageView
+                android:id="@+id/logo"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@id/back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/collections_view_as_list"/>
+
+        <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/logo"
+                android:layout_alignParentTop="true"
+                android:textColor="@android:color/black"
+                android:paddingTop="5dp"
+                android:text="@string/title"/>
+
+        <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/logo"
+                android:layout_below="@id/title"
+                android:textColor="@android:color/black"
+                android:text="@string/subtitle"/>
+
+        <View
+                android:id="@+id/separator"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/dark_grey"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+    </RelativeLayout>
+</android.support.v7.widget.Toolbar>

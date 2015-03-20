@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="api_url">http://api.goeuro.com/GoEuroAPI/rest/api/v2/position/suggest/en/</string>
+
+</resources>

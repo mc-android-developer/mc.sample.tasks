@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="projects_url" formatted="false" tools:ignore="StringFormatInvalid">https://api.github.com/users/xing/repos?page=%s&amp;per_page=%d</string>
+
+</resources>

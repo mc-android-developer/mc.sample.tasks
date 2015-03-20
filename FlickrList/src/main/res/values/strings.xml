@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlickrList</string>
+    <string name="refresh">refresh</string>
+
+    <string name="errmsg_no_data">Data loading fail</string>
+    <string name="errmsg_no_network">No network connection</string>
+
+</resources>

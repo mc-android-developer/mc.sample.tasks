@@ -1,0 +1,1 @@
+Create an Android application. Application loads and shows a number of images from company's website. A single image is visible on screen at a time. Images are scaled up and down by corresponding gestures and can be changed by swipe left or right. Progress bar, reflecting loading progress, is visible during image loading. Fell free to use any third-party libraries you want.

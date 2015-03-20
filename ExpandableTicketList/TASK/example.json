@@ -1,0 +1,187 @@
+{
+  "result": "ok",
+  "data": {
+    "103": {
+      "name": "Музыка / концерты",
+      "slug": "music-concert",
+      "Children": {
+        "109": {
+          "name": "Рок / альтернатива",
+          "slug": "rock"
+        },
+        "111": {
+          "name": "Классика",
+          "slug": "classic"
+        },
+        "113": {
+          "name": "Танцевальная / клубная музыка",
+          "slug": "dance"
+        },
+        "114": {
+          "name": "Фестивали, конкурсы, абонементы",
+          "slug": "festival-abonement"
+        },
+        "128": {
+          "name": "Опера, оперетта, мюзикл ",
+          "slug": "operetta"
+        },
+        "129": {
+          "name": "Джаз / блюз",
+          "slug": "jazz"
+        },
+        "130": {
+          "name": "Популярная музыка / шансон",
+          "slug": "pop-chanson"
+        },
+        "131": {
+          "name": "Рэп, хип-хоп, R&B, соул",
+          "slug": "rap-hiphop-rnb"
+        },
+        "132": {
+          "name": "Народная / музыка мира",
+          "slug": "folk"
+        },
+        "133": {
+          "name": "Другое",
+          "slug": "other"
+        }
+      }
+    },
+    "104": {
+      "name": "Театры / шоу",
+      "slug": "theatre-show",
+      "Children": {
+        "122": {
+          "name": "Мюзикл / музыкальные шоу",
+          "slug": "musical"
+        },
+        "123": {
+          "name": "Комедия / трагикомедия",
+          "slug": "tragicomedy"
+        },
+        "124": {
+          "name": "Опера / оперетта",
+          "slug": "opera"
+        },
+        "125": {
+          "name": "Балет",
+          "slug": "ballet"
+        },
+        "134": {
+          "name": "Драма / трагедия",
+          "slug": "drama-tragedy"
+        },
+        "136": {
+          "name": "Эксперименты / альтернатива",
+          "slug": "experiential"
+        }
+      }
+    },
+    "105": {
+      "name": "Кино",
+      "slug": "cinema",
+      "Children": {
+        "149": {
+          "name": "Драма",
+          "slug": "drama"
+        },
+        "150": {
+          "name": "Комедия",
+          "slug": "comedy"
+        },
+        "151": {
+          "name": "Триллер",
+          "slug": "thriller"
+        },
+        "152": {
+          "name": "Боевик",
+          "slug": "action"
+        },
+        "153": {
+          "name": "Приключения",
+          "slug": "adventures"
+        },
+        "154": {
+          "name": "Мелодрама",
+          "slug": "melodrama"
+        },
+        "155": {
+          "name": "Ужасы",
+          "slug": "horror"
+        },
+        "156": {
+          "name": "Анимация",
+          "slug": "cartoon"
+        },
+        "157": {
+          "name": "Фантастика",
+          "slug": "fantastic"
+        },
+        "158": {
+          "name": "Детектив",
+          "slug": "detective"
+        },
+        "159": {
+          "name": "Другое",
+          "slug": "other"
+        }
+      }
+    },
+    "107": {
+      "name": "Выставки / музеи",
+      "slug": "exhibitions-museums",
+      "Children": {
+        "137": {
+          "name": "Музеи",
+          "slug": "museums"
+        },
+        "138": {
+          "name": "Выставки",
+          "slug": "exhibitions"
+        },
+        "139": {
+          "name": "Экскурсии",
+          "slug": "excursions"
+        },
+        "140": {
+          "name": "Фестивали",
+          "slug": "festivals"
+        }
+      }
+    },
+    "108": {
+      "name": "Для всей семьи",
+      "slug": "whole-family",
+      "Children": {
+        "126": {
+          "name": "Детские спектакли",
+          "slug": "children"
+        },
+        "127": {
+          "name": "Семейные мероприятия",
+          "slug": "family"
+        },
+        "141": {
+          "name": "Детские театры",
+          "slug": "childrens-theatre"
+        },
+        "142": {
+          "name": "Цирки / шоу",
+          "slug": "circus"
+        },
+        "143": {
+          "name": "Аттракционы",
+          "slug": "attractions"
+        },
+        "144": {
+          "name": "Представления для детей",
+          "slug": "presentation-for-children"
+        },
+        "145": {
+          "name": "Мероприятия для всей семьи",
+          "slug": "event-to-whole-family"
+        }
+      }
+    }
+  }
+}

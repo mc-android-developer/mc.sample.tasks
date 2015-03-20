@@ -1,0 +1,9 @@
+You are to create a simple Android application to download and rotate images from the web (any image that the app will download from an http link), then present it in a dialog.
+ 
+The application should at least include the following features:  
+- A button to start the download and rotation process. 
+- A dialog to display the processed image. 
+- Should run without problems in API 10 and higher.
+- Must use String.isEmpty() when available, any other alternative when not available.
+
+Feel free to impress us, by going above and beyond scope; implement any extra features you like.

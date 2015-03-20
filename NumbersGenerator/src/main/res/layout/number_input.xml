@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools" android:id="@+id/content"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:gravity="center">
+
+    <Button
+            android:id="@+id/number_input_down"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="-"
+            tools:ignore="HardcodedText"
+            android:textSize="10pt"/>
+
+    <TextView
+            android:id="@+id/number_input_number"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@color/green_light"
+            android:background="@android:color/transparent"
+            android:minWidth="70dp"/>
+
+    <Button
+            android:id="@+id/number_input_up"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="+"
+            tools:ignore="HardcodedText"
+            android:textSize="10pt"/>
+
+</LinearLayout>

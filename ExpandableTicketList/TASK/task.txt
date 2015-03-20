@@ -1,0 +1,10 @@
+Develop an application with UI according to design.png
+Use roboto_bold_condenced.ttf font for titles and roboto_condenced.ttf for subtitles. All the required icons attached.
+
+Categories should show it's subcategories on click.
+
+Application data received as json from server:
+http://www.masterbiletov.ru/default/ajaxGetModelMethod?model=EventType&method=getChildrenPartsKeyValueFull
+Example can be found in file example.json
+
+The application should work on Android API10 and higher. No libraries except Android support should be in use.

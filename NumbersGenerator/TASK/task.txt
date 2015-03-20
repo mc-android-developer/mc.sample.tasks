@@ -1,0 +1,3 @@
+Create a simple Android application to display randomly generated numbers in digital and word form (e.g. 1024 - One thousand twenty four). The application has a button to generate new random number and has a control widget to set upper limit of a generated random number. The application can save and show the list off all generated numbers.
+
+Try to create customized, clear and nice UI handling orientation change properly.

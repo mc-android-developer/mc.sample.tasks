@@ -1,0 +1,15 @@
+Your task is to create an Android application showing a list of company's projects. Projects have to be loaded from GitHub using it's API.
+
+The application have to display simple ListView with projects and load them from GitHub page by page as user scroll the list. 20 projects have to be loaded at once.
+
+Other requirements:
+- You have to use database, content provider and other relevant classes from Android SDK to cache loaded projects.
+- You have to use loader to load and update projects in ListView.
+- Click on a list item have to show detailed information about a project.
+- Long click on a list item have to open repository in Android browser.
+- Highlight forked projects in the list.
+
+You can use only Android-support and Gson.
+Your application have to work on Android 4 and higher.
+
+You can find an example of json with projects in the file example.json

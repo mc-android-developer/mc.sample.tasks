@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "_type": "Position",
+      "_id": 410978,
+      "name": "Potsdam, USA",
+      "type": "location",
+      "geo_position": {
+        "latitude": 44.66978,
+        "longitude": -74.98131
+      }
+    },
+    {
+      "_type": "Position",
+      "_id": 377078,
+      "name": "Potsdam, Deutschland",
+      "type": "location",
+      "geo_position": {
+        "latitude": 52.39886,
+        "longitude": 13.06566
+      }
+    }
+  ]
+}
